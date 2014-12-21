@@ -21,6 +21,7 @@ public class Settings
 	public static final String  iMusicname           = "001.mp3";
 	public static final String[] p = {"wireshark", "cheat"};  //Список запрещенных процессов.
 	public static final String http = "http://";   //Протокол подключения https:// если есть ssl сертификат
+	//Какую ссылку добовлять в public static final String http = "http:// ? Ссылку на какой файл ?
 	
 	public static int height                         = 532;      //Высота окна клиента
 	public static int width                          = 900;      //Ширина окна клиента
